@@ -11,6 +11,10 @@ A comprehensive collection of **Linux shell scripts and command guides** designe
 | **Linux_Basic_Commands.sh** | Contains frequently used Linux commands for beginners — file handling, directory management, and system navigation. |
 | **Filters_Admin_Commands.sh** | Includes filter commands (`grep`, `awk`, `sed`, etc.) and essential system administration commands for managing users, processes, and files. |
 | **Shell_Programs.sh** | Covers shell scripting examples — variables, loops, conditionals, functions, and file handling — to help automate system tasks. |
+| **Dining Philosophers Problem.c** | C program implementation of the classical Dining Philosophers synchronization problem, illustrating deadlock and resource allocation concepts. |
+| **Mutual_Exclusion.c** | Demonstrates mutual exclusion mechanisms in C to prevent race conditions during concurrent execution. |
+| **Process_Creation.c** | Program showcasing process creation using fork(), including parent–child relationships and process management. |
+| **Thread_Creation.c** | C program that demonstrates thread creation using pthread library and basic multithreading concepts. |
 
 ---
 
